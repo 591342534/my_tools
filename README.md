@@ -1,5 +1,5 @@
-﻿# pyhon
-集成一些开发过程中常用的python
+﻿# tools
+集成一些开发过程中常用的tools
 
 git init
 
