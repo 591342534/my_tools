@@ -31,7 +31,7 @@ git merge
 
 git pull
 
-git push -f https://github.com/591342534/my_tools local_python:master
+git push -f https://github.com/591342534/my_tools local_tools:master
 
 git push -f origin master
  
